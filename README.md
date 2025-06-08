@@ -8,3 +8,9 @@ Commonwealth Bank to stay up to date with the latest fraud detection technologie
 **To solve the following problem:**
 * Which gender performed the most fraudulent activities and in what category?
 * Which age group performed the most fraudulent activities and to what merchant
+
+## Resource Dataset
+![About the dataset](https://github.com/user-attachments/assets/bfcd8b4a-e8d0-4afb-aebc-a302377f0c70)
+
+## Tools Needed
+Splunk, to visually represent the given data. 
